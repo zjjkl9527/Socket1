@@ -1,0 +1,8 @@
+include ':apptest'
+include ':avstest'
+include ':trafficpolice'
+include ':dyx'
+include ':Mp4Test'
+include ':app'
+include ':ffmpeg'
+rootProject.name = "Socket"
